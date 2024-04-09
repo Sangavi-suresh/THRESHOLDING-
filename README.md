@@ -91,6 +91,7 @@ for i in range(0,8):
 
 ![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/c1e0ed28-4b42-437c-8683-4526f86119e5)
 
+![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/dc2598b2-223c-45fa-a3db-4b168b677e46)
 
 ### Adaptive Thresholding
 
