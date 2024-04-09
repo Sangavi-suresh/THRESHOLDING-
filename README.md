@@ -103,9 +103,14 @@ for i in range(0,8):
 
 ### Adaptive Thresholding
 
+![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/20d46ea2-379b-4e69-9794-87815a1a2206)
+
+![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/dc183b32-5a72-4313-8e78-01f15ae38886)
+
 
 ### Optimum Global Thesholding using Otsu's Method
 
+![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/239a92df-2ef0-4afd-ab28-296b29c580ac)
 
 
 
