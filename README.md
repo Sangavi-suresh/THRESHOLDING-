@@ -89,6 +89,7 @@ for i in range(0,8):
 
 ### Global Thresholding
 
+![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/c1e0ed28-4b42-437c-8683-4526f86119e5)
 
 
 ### Adaptive Thresholding
