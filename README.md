@@ -88,27 +88,13 @@ for i in range(0,8):
 
 ### Global Thresholding
 
-![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/d566dfe9-5c39-4019-8e1e-2b197548b9c3)
 
-![274239738-c90055a5-652f-48b2-a508-3c21de9d3200](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/ea74b922-201e-43a5-8835-c120c64d741a)
-
-![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/3c8124c6-3166-4a80-a44b-3db7bcc680a9)
-
-![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/9765dc4a-726c-471e-9de9-53eedf126a14)
-
-![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/a355e56a-310f-4484-8e1b-c912c28e4672)
-
-![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/0c6293cc-779a-4f9b-b5cd-bc3243d7b270)
 
 ### Adaptive Thresholding
 
-![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/aa45b57e-b532-42ff-ae55-085e8859bc09)
-
-![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/46590eaa-ea65-4bf5-a356-3fa3260f6152)
 
 ### Optimum Global Thesholding using Otsu's Method
 
-![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/30499f48-a638-4203-a3d6-f66a943b011c)
 
 
 
