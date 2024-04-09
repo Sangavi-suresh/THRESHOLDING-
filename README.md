@@ -83,6 +83,7 @@ for i in range(0,8):
 
 ### Original Image
 
+![image](https://github.com/Sangavi-suresh/THRESHOLDING-/assets/118541861/d598949a-c394-48b1-aa0f-e56310c4191d)
 
 
 
